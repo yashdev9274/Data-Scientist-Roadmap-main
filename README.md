@@ -125,18 +125,18 @@ Here are some key things that a data scientist should learn in statistics:
 
 ### Kubernetes
 
-- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
-- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
-- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Notes](DataScience/Kubernetes/README.md)
+- [Commands](DataScience/Kubernetes/README.md)
+- [Projects](DataScience/Kubernetes/README.md)
 
 
 <br>
 
 ### Docker
 
-- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
-- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
-- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Notes](DataScience/Docker/README.md)
+- [Commands](DataScience/Docker/README.md)
+- [Projects](DataScience/Docker/README.md)
 
 
 <br>
