@@ -28,9 +28,9 @@ Here are some key things that a data scientist should learn in statistics:
 
 <!-- 1. Probability: Probability is the study of random events, and is an essential part of statistics. A data scientist should understand basic concepts such as probability distributions, Bayes' theorem, and random variables. -->
 
-- [Notes](DataScience/Statistics/Learning.md)
-- [Commands](DataScience/Statistics/Learning.md)
-- [Projects](DataScience/Statistics/Learning.md)
+- [Notes](DataScience/Statistics/README.md)
+- [Commands](DataScience/Statistics/README.md)
+- [Projects](DataScience/Statistics/README.md)
 
 
 <br>
@@ -63,17 +63,17 @@ Here are some key things that a data scientist should learn in statistics:
 
 ### SQL (Structured Query Language)
 
-- [Notes](DataScience/Statistics/README.md)
-- [Commands](DataScience/Statistics/README.md)
-- [Projects](DataScience/Statistics/README.md)
+- [Notes](DataScience/SQL/README.md)
+- [Commands](DataScience/SQL/README.md)
+- [Projects](DataScience/SQL/README.md)
 
 <br>
 
 ### Basics Of Linux
 
-- [Notes](DataScience/Statistics/README.md)
-- [Commands](DataScience/Statistics/README.md)
-- [Projects](DataScience/Statistics/README.md)
+- [Notes](DataScience/Linux/README.md)
+- [Commands](DataScience/Linux/README.md)
+- [Projects](DataScience/Linux/README.md)
 
 
 <br>
@@ -89,9 +89,9 @@ Here are some key things that a data scientist should learn in statistics:
 
 ### Data Warehouse Fundamentals
 
-- [Notes](DataScience/Statistics/Overview.md)
-- [Commands](DataScience/Statistics/Overview.md)
-- [Projects](DataScience/Statistics/Overview.md)
+- [Notes](DataScience/DataWarehouse/Overview.md)
+- [Commands](DataScience/DataWarehouse/Overview.md)
+- [Projects](DataScience/DataWarehouse/Overview.md)
 
 
 <br>
