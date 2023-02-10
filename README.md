@@ -28,9 +28,9 @@ Here are some key things that a data scientist should learn in statistics:
 
 <!-- 1. Probability: Probability is the study of random events, and is an essential part of statistics. A data scientist should understand basic concepts such as probability distributions, Bayes' theorem, and random variables. -->
 
-- [Notes](DataScience/Statistics/README.md)
-- [Commands](DataScience/Statistics/README.md)
-- [Projects](DataScience/Statistics/README.md)
+- [Notes](DataScience/Statistics/Learning.md)
+- [Commands](DataScience/Statistics/Learning.md)
+- [Projects](DataScience/Statistics/Learning.md)
 
 
 <br>
