@@ -17,9 +17,9 @@ Note
 
 ### Python 
 
-- [Notes](Data Science/Python/README.md)
-- [Commands](Data Science/Python/README.md)
-- [Projects](Data Science/Python/README.md)
+- [Notes](DataScience/Python/README.md)
+- [Projects](DataScience/Python/README.md)
+- [Commands](DataScience/Python/README.md)
 
 
 ### Statistics
