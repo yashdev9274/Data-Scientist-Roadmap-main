@@ -17,9 +17,9 @@ Note
 
 ### Python 
 
-- [Notes](Data Science\Python)
-- [Commands](Data Science\Python)
-- [Projects](Data Science\Python)
+- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/Python)
+- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/Python)
+- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/Python)
 
 
 ### Statistics
