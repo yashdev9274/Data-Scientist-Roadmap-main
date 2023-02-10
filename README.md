@@ -13,7 +13,7 @@
 Note
 > It is adviced to follow the path in the manner given below
 
-### Skills required for Data Scietists
+### Skills required for Data Scientist
 
 ### Python 
 
@@ -28,34 +28,34 @@ Here are some key things that a data scientist should learn in statistics:
 
 <!-- 1. Probability: Probability is the study of random events, and is an essential part of statistics. A data scientist should understand basic concepts such as probability distributions, Bayes' theorem, and random variables. -->
 
-- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/Statistics)
-- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/Statistics)
-- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/Statistics)
+- [Notes](DataScience/Statistics/README.md)
+- [Commands](DataScience/Statistics/README.md)
+- [Projects](DataScience/Statistics/README.md)
 
 
 <br>
 
 ### Machine Learning
 
-- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/Machine%20Learning)
-- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/Machine%20Learning)
-- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/Machine%20Learning)
+- [Notes](DataScience/Statistics/README.md)
+- [Commands](DataScience/Statistics/README.md)
+- [Projects](DataScience/Statistics/README.md)
 
 <br>
 
 ### Deep Learning
 
-- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/DeepLearning)
-- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/DeepLearning)
-- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/DeepLearning)
+- [Notes](DataScience/Statistics/README.md)
+- [Commands](DataScience/Statistics/README.md)
+- [Projects](DataScience/Statistics/README.md)
 
 <br>
 
 ### Natural Language Processing (NLP)  
 
-- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/NLP)
-- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/NLP)
-- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/tree/main/Data-Science%20/NLP)
+- [Notes](DataScience/Statistics/README.md)
+- [Commands](DataScience/Statistics/README.md)
+- [Projects](DataScience/Statistics/README.md)
 
 <br>
 
@@ -63,35 +63,35 @@ Here are some key things that a data scientist should learn in statistics:
 
 ### SQL (Structured Query Language)
 
-- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
-- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
-- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Notes](DataScience/Statistics/README.md)
+- [Commands](DataScience/Statistics/README.md)
+- [Projects](DataScience/Statistics/README.md)
 
 <br>
 
 ### Basics Of Linux
 
-- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
-- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
-- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Notes](DataScience/Statistics/README.md)
+- [Commands](DataScience/Statistics/README.md)
+- [Projects](DataScience/Statistics/README.md)
 
 
 <br>
 
 ### Core Data Engineering Concepts
 
-- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
-- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
-- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Notes](DataScience/Statistics/Overview.md)
+- [Commands](DataScience/Statistics/Overview.md)
+- [Projects](DataScience/Statistics/Overview.md)
 
 
 <br>
 
 ### Data Warehouse Fundamentals
 
-- [Notes](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
-- [Commands](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
-- [Projects](https://github.com/yashdev9274/Data-Scientist-Roadmap/blob/main/Data-Science%20/SQL/Overview.md)
+- [Notes](DataScience/Statistics/Overview.md)
+- [Commands](DataScience/Statistics/Overview.md)
+- [Projects](DataScience/Statistics/Overview.md)
 
 
 <br>
