@@ -37,25 +37,25 @@ Here are some key things that a data scientist should learn in statistics:
 
 ### Machine Learning
 
-- [Notes](DataScience/Statistics/README.md)
-- [Commands](DataScience/Statistics/README.md)
-- [Projects](DataScience/Statistics/README.md)
+- [Notes](DataScience/MachineLearning/README.md)
+- [Commands](DataScience/MachineLearning/README.md)
+- [Projects](DataScience/MachineLearning/README.md)
 
 <br>
 
 ### Deep Learning
 
-- [Notes](DataScience/Statistics/README.md)
-- [Commands](DataScience/Statistics/README.md)
-- [Projects](DataScience/Statistics/README.md)
+- [Notes](DataScience/DeepLearning/README.md)
+- [Commands](DataScience/DeepLearning/README.md)
+- [Projects](DataScience/DeepLearning/README.md)
 
 <br>
 
 ### Natural Language Processing (NLP)  
 
-- [Notes](DataScience/Statistics/README.md)
-- [Commands](DataScience/Statistics/README.md)
-- [Projects](DataScience/Statistics/README.md)
+- [Notes](DataScience/NLP/README.md)
+- [Commands](DataScience/NLP/README.md)
+- [Projects](DataScience/NLP/README.md)
 
 <br>
 
