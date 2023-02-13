@@ -37,9 +37,9 @@ Here are some key things that a data scientist should learn in statistics:
 
 ### Machine Learning
 
-- [Notes](DataScience/MachineLearning/README.md)
+- [Notes](DataScience/MachineLearning/)
 - [Commands](DataScience/MachineLearning/README.md)
-- [Projects](DataScience/MachineLearning/README.md)
+- [Projects](DataScience/MachineLearning/ML_Projects/)
 
 <br>
 
