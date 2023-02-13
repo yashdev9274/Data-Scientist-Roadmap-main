@@ -1,5 +1,7 @@
 ## Why Data Scientists needs Kubernetes?
 
+<img align="centre" src="Asset/why,question.jpg" height="600" alt="Why"> 
+
 Data scientists often use [`containerization`]() technologies like [`Docker`]() to package their code and dependencies in a portable and reproducible way. Kubernetes is a powerful tool that can help data scientists manage and orchestrate these containers in a production environment.
 
 Some of the main reasons why a data scientist might use Kubernetes include:
@@ -22,6 +24,9 @@ Overall, Kubernetes can help data scientists to manage the deployment and scalin
 
 ## What is Kubernetes?
 
+<img align="centre" src="Asset\Kubernetes img.png" height="500" alt="Why"> 
+
+
 `Kubernetes` is an open-source platform that helps to manage and [`orchestrate`]() containerized workloads and services. It is a system that automates the deployment, scaling, and management of containerized applications.
 
 In simple terms, Kubernetes is like a traffic controller for your containers. It makes sure that your containers are running as they should, and if one of them fails, it will automatically start a new one. It also allows you to easily scale your applications up or down, depending on your needs.
@@ -30,6 +35,9 @@ This platform can run on-premises or in the cloud, and it makes it easy for orga
 
 
 ## Kubernetes Components
+
+<img align="centre" src="Asset\components-of-kubernetes.svg" height="500" alt="Why"> 
+<!-- Don't correct grammatical mistake of above kubernetes  -->
 
 This section is under maintainance.
 > You can raise issue to work on it 
