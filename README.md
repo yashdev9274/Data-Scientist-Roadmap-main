@@ -1,19 +1,25 @@
 # Data-Science / Data-Engineer-Roadmap
 
-## Data-Science 
+
 
 ### Fundamentals
 
-[`Data science`](https://github.com/yashdev9274/Data-Scientist-Roadmap/edit/main/README.md#skills-required-for-data-scietists) is a field that involves the use of scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data. It involves the use of a wide range of techniques and tools from various fields such as statistics, machine learning, data mining, and computer science to analyze and interpret data. The goal of data science is to help organizations make better decisions and predictions by uncovering patterns and trends in data. Data scientists use various techniques, including machine learning algorithms, to build predictive models that can be used to make predictions and draw insights from data.
+[`Data science`](https://yashdev9274.github.io/Data-Scientist-Roadmap-main/#/?id=data-science) is a field that involves the use of scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data. It involves the use of a wide range of techniques and tools from various fields such as statistics, machine learning, data mining, and computer science to analyze and interpret data. The goal of data science is to help organizations make better decisions and predictions by uncovering patterns and trends in data. Data scientists use various techniques, including machine learning algorithms, to build predictive models that can be used to make predictions and draw insights from data.
 
-[`Data engineering`](https://github.com/yashdev9274/Data-Scientist-Roadmap/edit/main/README.md#skills-required-for-data-engineers) is a field that involves the design, construction, and maintenance of systems and infrastructure for collecting, storing, processing, and analyzing large data sets. This encompasses a wide range of tasks, including data warehousing, data modeling, data integration, data quality assurance, and data security. Data engineers work closely with data scientists and analysts to ensure that data is accurate, accessible, and can be used to support business decisions. Data engineers also design and implement the architecture and infrastructure necessary to support big data technologies such as Hadoop and Spark. The field of data engineering is rapidly evolving, as new technologies and approaches continue to emerge.
+[`Data engineering`](https://yashdev9274.github.io/Data-Scientist-Roadmap-main/#/?id=data-science) is a field that involves the design, construction, and maintenance of systems and infrastructure for collecting, storing, processing, and analyzing large data sets. This encompasses a wide range of tasks, including data warehousing, data modeling, data integration, data quality assurance, and data security. Data engineers work closely with data scientists and analysts to ensure that data is accurate, accessible, and can be used to support business decisions. Data engineers also design and implement the architecture and infrastructure necessary to support big data technologies such as Hadoop and Spark. The field of data engineering is rapidly evolving, as new technologies and approaches continue to emerge.
 
+<br>
+
+## Data-Science 
+
+<br>
+<img align="centre" src="Asset\DATA SCIENCE MODEL.jpg" height="500" alt="Why"> 
 <br>
 
 Note
 > It is adviced to follow the path in the manner given below
 
-### Skills required for Data Scientist
+### Skills required by Data Scientist
 
 ### Python 
 
@@ -59,7 +65,10 @@ Here are some key things that a data scientist should learn in statistics:
 
 <br>
 
-### Skills required for Data Engineers
+## Data Engineers
+
+### Skills required by Data Scientist
+
 
 ### SQL (Structured Query Language)
 

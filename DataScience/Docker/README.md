@@ -1,8 +1,7 @@
 ## What is Docker?
-
+<br>
 <img align="centre" src="Asset\Docker img.png" height="300" alt="Why"> 
-
-
+<br>
 
 A software platform called Docker makes it simple to develop, test, and deploy applications. Software is packaged by Docker into standardized units called [`containers`]() that contain all of the necessary code, libraries, system tools, and runtime. With Docker, you can easily scale and deploy apps into any environment while being confident that your code will work.
 
