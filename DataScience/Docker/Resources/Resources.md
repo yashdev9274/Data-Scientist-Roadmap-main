@@ -17,5 +17,3 @@
 - [Beginners friendly Project Ideas on Docker](https://careerkarma.com/blog/docker-projects/)
 
 
-
-
